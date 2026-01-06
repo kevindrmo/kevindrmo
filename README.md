@@ -13,13 +13,13 @@
 <br>
 <div align="center">
 <img src="bleach_gif.gif" width="300px" alt="Profile Avatar" style="border-radius:10px;">
+</div>
 <p>
 <b>👤 NAME:</b> Kevin Lorenzo Di Raimo<br>
 <b>📍 LOCATION:</b> Zurich, Switzerland<br>
 <b>🏫 GUILD:</b> University of Zurich (UZH)<br>
 <b>📜 CLASS:</b> Economics & Computer Science<br>
 <b> 𝑳𝐕𝑳 LEVEL:</b> Bachelor (5th Semester)
-</div>
 </p>
 <p>
 <b>💬 BIO:</b><br>
@@ -34,8 +34,10 @@ My main quest is <b>Data Analysis</b>—building tools to visualize complex data
 </td>
 <td width="50%" align="center">
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" style="border-radius: 10px;" alt="Anime Coding">
-<br><br>
-<i>"Visualizing the complex..."</i>
+<br>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Initialising+Kevin+Di+Raimo...;Loading+Economics+Modules...;Loading+Python+Libraries...;System+Ready!" alt="Typing SVG" />
+</a>
 </td>
 </tr>
 </table>
