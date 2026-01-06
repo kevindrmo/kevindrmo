@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Kevin Lorenzo Di Raimo! 👋
 
-<!--
-**kevindrmo/kevindrmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student @ UZH | Economics & Computer Science
 
-Here are some ideas to get you started:
+I am currently bridging the gap between Economics and Computer Science at the University of Zurich. I'm passionate about Data Analysis and building tools to visualize complex data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Languages & Tech Stack
+
+Here are the languages and tools I use to bring my projects to life:
+
+### **Python Ecosystem**
+My primary driver for data analysis and application building.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/LinearModels-555555?style=for-the-badge&logoColor=white" alt="Linearmodels" />
+</p>
+
+### **Statistical Analysis & Scripting**
+<p align="left">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+---
+
+## 🔭 Featured Projects
+
+* **[kldr-project](https://github.com/kevindrmo/kldr-project)**: My final project for Data Analysis, showcasing my work with data processing and visualization.
+
+---
+
+## 📫 Connect with Me
+
+* 📍 **Location**: Zurich
+* 💼 **LinkedIn**: [Kevin Lorenzo Di Raimo](https://www.linkedin.com/in/kevin-lorenzo-di-raimo-55b776183)
