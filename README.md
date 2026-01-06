@@ -2,7 +2,7 @@
 
 ### Student @ UZH | Economics & Computer Science
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Universit%C3%A4t_Z%C3%BCrich_logo.svg/1280px-Universit%C3%A4t_Z%C3%BCrich_logo.svg.png" width="300px" alt="UZH Full Logo" />
+![UZH_logo](uzh_logo.png)
 
 I am currently bridging the gap between Economics and Computer Science at the University of Zurich. I'm passionate about Data Analysis and building tools to visualize complex data.
 
