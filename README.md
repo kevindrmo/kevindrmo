@@ -6,6 +6,9 @@ I am currently bridging the gap between Economics and Computer Science at the Un
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600px" alt="Anime Coding GIF"/>
+  
 ## 🛠 Languages & Tech Stack
 
 Here are the languages and tools I use to bring my projects to life:
