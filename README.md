@@ -65,7 +65,7 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100px" alt="Anime Working">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px" alt="Anime Working">
   <br><br>
   
   <h3>📫 TRANSMISSION LINKS</h3>
