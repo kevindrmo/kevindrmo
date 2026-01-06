@@ -25,7 +25,7 @@
       </p>
       <br>
       <a href="https://www.uzh.ch">
-        <img src="uzh_logo.png" width="200px" alt="UZH Guild Badge" title="University of Zurich">
+        <img src="uzh_logo.png" width="400px" alt="UZH Guild Badge" title="University of Zurich">
       </a>
     </td>
     <td width="50%" align="center">
