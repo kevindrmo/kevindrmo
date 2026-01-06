@@ -11,11 +11,14 @@
     <td width="50%" valign="top">
       <h2> ⚡ CHARACTER STATS</h2>
       <br>
+      <div align= "center">
+        <img src="bleach_gif.gif" width="300px" alt="cool_gif" title="cool_gif">
       <p>
         <b>👤 NAME:</b> Kevin Lorenzo Di Raimo<br>
         <b>📍 LOCATION:</b> Zurich, Switzerland<br>
         <b>🏫 GUILD:</b> University of Zurich (UZH)<br>
         <b>📜 CLASS:</b> Economics & Computer Science<br>
+        <b> 𝑳𝐕𝑳 LEVEL:</b> Bachelor (5th Semester)
       </p>
       <p>
         <b>💬 BIO:</b><br>
