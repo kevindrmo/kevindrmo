@@ -4,10 +4,11 @@
 
 I am currently bridging the gap between Economics and Computer Science at the University of Zurich. I'm passionate about Data Analysis and building tools to visualize complex data.
 
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600px" alt="Anime Coding GIF"/>
+
+---
+
   
 ## 🛠 Languages & Tech Stack
 
@@ -42,3 +43,5 @@ My primary driver for data analysis and application building.
 
 * 📍 **Location**: Zurich
 * 💼 **LinkedIn**: [Kevin Lorenzo Di Raimo](https://www.linkedin.com/in/kevin-lorenzo-di-raimo-55b776183)
+
+<img align="middle" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150px" alt="Anime Character Working Hard"/>
