@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <h1>Kevin Lorenzo Di Raimo</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <h1>Kevin Lorenzo Di Raimo</h1>
 </div>
 
 <table>
