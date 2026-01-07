@@ -89,6 +89,21 @@ My main quest is <b>Data Analysis</b>—building tools to visualize complex data
 <br>
 <br>
 
+<h2>📊 BATTLE RECORDS (Stats)</h2>
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kevindrmo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kevin's Stats" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindrmo&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+<br>
+<br>
+
 <h2>💾 MISSION LOG (Projects)</h2>
 <br>
 
@@ -107,8 +122,3 @@ My main quest is <b>Data Analysis</b>—building tools to visualize complex data
 
 <a href="https://www.linkedin.com/in/kevin-lorenzo-di-raimo-55b776183">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br><br>
-(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-</div>
